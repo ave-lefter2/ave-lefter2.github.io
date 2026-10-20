@@ -1,0 +1,1 @@
+import{Qs as t}from"./Dd0s1VsX.js";import{t as o}from"./DToY0AMW.js";function r(r,e){return r&&"string"==typeof r?/^(?:https?:)?\/\/|^data:|^blob:/i.test(r)?r:`${(e||function(){try{return t().globalConfig?.token_logo_url||"https://www.iconaves.com/"}catch{return o}}()).replace(/\/$/,"")}/${r.replace(/^\//,"")}`:""}export{r as t};
