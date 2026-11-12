@@ -1,0 +1,1 @@
+import{Fr as r}from"./CdpISvj1.js";function o(o){!1!==o&&r.error(String(o))}export{o as t};
